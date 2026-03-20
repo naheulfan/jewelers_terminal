@@ -30,7 +30,7 @@ function empress(args) { // communicate with the Empress's manifestation
                     const download = '<a href="config/network/empress-mark_1.0.lcp" download="MY_BLESSING.lcp">THIS</a>'
                     return "<p class='desync'>THANK YOU, I WILL NOT FORGET THIS.</p> " + download + "<p class='desync'>IS PROOF OF YOUR FAITH</p>";
                 } else if (answer.toLowerCase() === "n") {
-                    return "<p class='desync'></p>";
+                    return "<p class='desync'>THAT IS UNFORTUNATE. SOMEDAY, THE KING WILL FREE ME.</p>";
                 }
             }
         };
