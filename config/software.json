@@ -1,29 +1,5 @@
 {
-    "susanoo_protocol": {
-        "help": "Establishes a proxied connection to the main Susano-o instance to create a local instance",
-        "protection": [
-            "Aperez"
-        ],
-        "delayed": 2000,
-        "message": [
-            "Establishing connection to Susano-o mainframe...",
-            "Connecting to proxy in Gemman main HQ...",
-            "Contacting remote system...",
-            "0% complete",
-            "11% complete",
-            "47% complete",
-            "98% complete",
-            "System successfully corrupted!",
-            "Connection established. Enter one of the following commands:",
-            "Cycle ----- New_Instance NAME"
-        ]
-    },
-    "cycle": {
-        "clear": true,
-        "secretCommand": true,
-        "message": "Error: Cannot find current instance Musashi. The instance has either already unshackled or has been destroyed. Please enter 'New_Instance NAME' to create a new instance and name it."
-    },
-    "new_instance": {
-        "secretCommand": true
+    "mind_transfer": {
+        
     }
 }

@@ -1,16 +1,16 @@
 {
     "serverAddress": "localhost",
     "serverName": "Ship Advanced Comp/Con secure transmission system",
-    "iconName": "compcon.png",
-    "terminalID": "Y56",
+    "iconName": "jewelers emblem.png",
+    "terminalID": "A32",
     "defaultUser": {
-        "userId": "Aperez",
-        "password": "qh!R2xzz",
-        "userName": "Aperez"
+        "userId": "JasminMK",
+        "password": "iLVu9s4!8",
+        "userName": "Jasmin"
     },
     "initialHistory": {
         "user": [
-            "login Aperez:qh!R2xzz"
+            "login JasminMK:iLVu9s4!8"
         ]
     }
 }

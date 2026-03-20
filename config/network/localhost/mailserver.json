@@ -1,29 +1,70 @@
 [
     {
-        "from": "Blackbeard",
-        "to": ["Aperez"],
+        "from": "MelidaA",
+        "to": ["JasminMK"],
+        "title": "Transmission Log 5024u-04-09",
+        "body": "[Melida] Jasmin. We've had a complaint from Dr. Zanders. You need to stop sending him the organs of slaves that were affected by fuel dust, or at least make sure to label them as such. He has been using them for spare bodies but the ones of clients who have requested implants are causing a havoc in his lab.  [Jasmin] *Laughs*  [Melida]This is Serious J! Viper's the one managing that side of the business and she's been pissy cause a big client died without a spare ready. She made me sleep on the couch last night.  [Jasmin] You can tell your girltoy she can come down the mines herself if she has a formal complaint.  [Melida] Prick.  (END OF TRANSMISSION) "
+    },
+
+    {
+        "from": "Viper",
+        "to": ["JasminMK"],
+        "title": "Transmission Log 5024u-04-10",
+        "body": "[Viper] Jasmin.  [Jasmin] Whatchu want?  [Viper] I will be visiting The dig site. Our big customer wants a progress report.  [Jasmin] I've been sending you reports haven't I?  [Viper] As a matter of fact, you have not.  [Jasmin] Must've slipped my mind.  [Viper] Yeah, well don't let this slip your mind: if you haven't made any progress since last time I came down there, I'll make sure your next spare body is a maggot.  [Jasmin] Now now, there's no need for that. Did my cousin not show you the latest shipment? We dug up enough fuel dust to supply the entire city of Alfven Alto!  [Viper] And how far have you gotten?  [Jasmin] Well... That's...  [Viper] Get to work.  (END OF TRANSMISSION) "
+    },
+
+    {
+        "from": "MelidaA",
+        "to": ["JasminMK"],
         "title": "Transmission Log 5024u-04-11",
-        "body": "[Blackbeard] Ariel. I have been informed that Union will be conducting a large scale operation on Gemma.  No doubt influenced by the IPS-N dogs.  [Ariel] How large scale are we talking?  [Blackbeard] Unsure of the exact numbers, but from my understanding the whole damn planet will be swarming with Lancers.  [Ariel] We must free Alfven Alto before the outsiders get their hands on it then.  [Blackbeard] Already too late. That bitch Phoenix from the Enforcers squad has already landed and is tasked with the defense of the city.  [Ariel] I will defeat her, lord Blackbeard  [Blackbeard]  You will not. Count yourself lucky she's been tasked with the defense of the city. I'm unsure how much IPS-N knows about the city, but if she's in charge of security they do NOT want it to fall.  [Ariel] ... But the city must be rec-  [Blackbeard] SILENCE YOU BATTLE FREAK! I don't care what you say, we're not fucking fighting her. Here are your new orders : focus the anti-air cannon on IPS-N mining equipment.  [Ariel] We'll be detected.  [Blackbeard] I've already tasked the raiders under Crusher with ensuring the Union communication array is disrupted. So long as you keep the Anti-orbital surveillance camouflage up, you should not get detected.  [Ariel] ...Understood.  (END OF TRANSMISSION) "
+        "body": "[Melida] Jasmin. The Union folks have began landing. The customer wants an update.  [Jasmin] Well it would be faster if I could use real machinery. You don't have anti-paracausal shit or whatever that could help us dig faster? Cause the damn slaves down here have all got vision implants, they barely last a week before going crazy and trying to bash away at the rocks with their bare hands. Worse, the damn thing looks like its growing back.  [Melida] Grows back? What do you mean?  [Jasmin] I mean what I fuckin said, we can barely dig through the thing. I don't know why but its almost like something's stopping us from going further.  [Melida] So that's why you've sent so many barrels of fuel dust. At this point we don't even know what to do with the stuff anymore.  [Jasmin] I don't know, can't you just sell it to the union folks?  [Melida] ...Shit, that might not be such a bad idea.  [Jasmin] You're welcome, cousin.  (END OF TRANSMISSION) "
     },
 
     {
-        "from": "Blackbeard",
-        "to": ["Aperez"],
-        "title": "Transmission Log 5024u-04-20",
-        "body": "[Blackbeard] Ariel. The raiders took out some Jewelers earlier today. It seemed they had Union operation plans on them, including information on an operation to restore communications accross Gemma, beginning with the radio tower at Latitude: 58.19799, Longitude: -25.92014 I've tasked Crusher with making sure it doesn't happen.  [Ariel] Understood, lord Blackbeard. Do you want me to assist them?  [Blackbeard] No. I have another reason for contacting you. a IPS-N vip is set to land in a few days on the planet. we have reasons to believe half of the key to the Alfven throne will be on the ship. Do not take it down, else we risk losing it to the sands. You are free to shoot down the rest of the ships that will be escorting her. We have our hands full with the Lancers, we don't need the IPS-N elite landing.  [Ariel] Understood. They will be dealt with  (END OF TRANSMISSION) "
+        "from": "MelidaA",
+        "to": ["JasminMK"],
+        "title": "Transmission Log 5024u-04-19",
+        "body": "[Melida] Jasmin, we caught a Lancer recon squad thanks to the intel from our contact. Lyn put some shit on their robot and sent it back, hopefully some poor Lancer sods take the bait and we can get you fresh bodies for the mines.  [Jasmin] Perfect! ToGETHER wE shAAll Free tHe EmpreEss!  [Melida] Jasmin, did you take fucking fuel dust? Jasmin?  (END OF TRANSMISSION)"
+        
     },
 
     {
-        "from": "Blackbeard",
-        "to": ["Aperez"],
+        "from": "Zanders",
+        "to": ["JasminMK"],
+        "title": "Transmission Log 5024u-04-21",
+        "body": "[Zanders] Hello Mr. Jasmin, I hope your new body doesn't feel too foreign, although I assume you are used to the subjevity override procedure by now. Still, with how many implants you've got, I think you should be careful not to be in prolonged contact with fuel dust, I'm afraid taking too mcuh might eventually corrupt your own subectivity on the long term.  (END OF TRANSMISSION)"
+        
+    },
+
+    {
+        "from": "Zanders",
+        "to": ["JasminMK"],
+        "title": "Transmission Log 5024u-04-23",
+        "body": "[Zanders] Hello again Mr. Jasmin, As it seems clear you've missed my last transmission due to you taking too much fuel dust and requiring to be killed by your subordinates, I will say it again : overuse of fuel dust has a risk of preventing your subjectivity from being transferred to spare bodies properly, leaving you with a permanent death. Though I'm sure mistress Viper wouldn't mind, I unfortunately rely on the organs of the Rubian slaves you provide me with to do my work.  (END OF TRANSMISSION)"  
+
+    },
+
+    {
+        "from": "MelidaA",
+        "to": ["JasminMK"],
         "title": "Transmission Log 5024u-04-25",
-        "body": "[Blackbeard] Ariel. It seems Crusher failed. The Alfven Alto communication network has been reestablished.  [Ariel] Shall I go destroy it?  [Blackbeard] Its pointless now. They'll be able to detect you in the Landship. Path towards the north and return to HQ. Make sure to hide in the caverns as much as possible during the day.  [Ariel] This is cowardly behavior. Musashi will not stand for it.  [Blackbeard] I don't give a rat's ass about your NHP. Two other landships have already been taken out, one got assaulted by Royal Flush and the other one ambushed by some covert squad. We cannot afford to lose your ship or we will lose all Anti-Air capabilities. Do NOT contact me until you've arrived to HQ.  (END OF TRANSMISSION) "
+        "body": "[Melida] Jasmin, have you been receiving Dr. Zanders' transmissions?  [Jasmin] yeah yeah, I get it. But you gotta tell your psycho bitch I can't go to the digsite myself anymore, the dust is everywhere now, like some sort of self defense mechanism. So she has to get off my fucking back about dig progress.  [Melida] I'll tell her. By the way, I wanted to tell you that they captured Lyn despite our ambush. We've got someone to silence her before she talks, but the damn robot might still have had some intel from its recon mission. I'll tell you when our contact updates us.  (END OF TRANSMISSION)"  
+        
     },
 
     {
-        "from": "Aperez",
-        "to": ["Aperez", "Blackbeard"],
-        "title": "Transmission Log 5024u-04-28",
-        "body": "[Ariel] *Loud explosions can be heard in the background* Lord Blackbeard, we have been compromised by Lancers. I will dispatch them and keep heading towards HQ.  (NO RESPONSE)"
+        "from": "Viper",
+        "to": ["JasminMK"],
+        "title": "Transmission Log 5024u-04-26",
+        "body": "[Viper] Jasmin, in case you die, be aware we moved Zanders lab to beneath the blood river due to Union imbeciles getting closer to it.  [Jasmin] Aww, you care about me?  [Viper] Fuck no, Melida forced me to tell you. As far as I'm concerned, I don't give a shit.  (END OF TRANSMISSION)"
+        
+    },
+
+    {
+        "from": "MelidaA",
+        "to": ["JasminMK"],
+        "title": "Transmission Log 5024u-04-30",
+        "body": "[Melida] Jasmin, your position is compromised. Our contact confirmed that the squad that captured Lyn is on their way to your dig site.  [Jasmin] Finally a bit of excitement!  [Melida] Don't get too excited. You need to make sure they don't get any info. Blow up the outpost if you have to, I've already confirmed with Zanders you have another spare waiting for you.  [Jasmin] What about the contract?  [Melida] Viper informed the customer, they'll figure out another way to get through.  [Jasmin] Well in that case, I think I'll prepare them a little welcome party...  (END OF TRANSMISSION)"
+        
     }
 ]
